@@ -1,4 +1,4 @@
-////here instead of typing in the commands by hands 
+////here instead of typing in the commands by hands we use "mysqli" in php php php to manipulate mySQL
 ////we are using "mysqli" in php to operate queries in mysql : using prepared-statement actually!
 
 <?php
