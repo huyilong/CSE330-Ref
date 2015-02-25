@@ -23,6 +23,8 @@ if(isset($_SESSION['username'])){
 
                 <li><a href="story.php?cat=education">education</a></li>
                 <li><a href="story.php?cat=entertainment">entertainment</a></li>
+                <!--   if(isset($_GET['cat'])) -->   later for accessing this variable
+
                 <li><a href="story.php?cat=life">life</a></li>
         
        </div>
